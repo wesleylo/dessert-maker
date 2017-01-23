@@ -72,7 +72,7 @@ reset.addEventListener('click',
 );
 
 function add() {
-  if(currentFruit != null && currentDessert != null) { //check if both ingredients are selected
+  if(currentFruit != null && currentDessert != null) { //proceed if both ingredients are selected
     resultHolder.innerHTML = '<img src="' + images.mixes[currentFruit][currentDessert] +'"/>';
   }
 }
