@@ -1,2 +1,2 @@
 # dessert-maker
-This Vue app combines ingredient images into a dessert image.
+Combine ingredient images into a dessert image.
